@@ -1,4 +1,4 @@
-# minGPT
+# Git Lab: Practicing Collaboration
 
 ![mingpt](mingpt.jpg)
 
