@@ -1,4 +1,4 @@
-# minGPT
+# Git Lab: Learning Branches
 
 ![mingpt](mingpt.jpg)
 
