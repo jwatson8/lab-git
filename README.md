@@ -148,5 +148,3 @@ Papers + some implementation notes:
 ### License
 
 MIT
-
-Git revert permanently deletes previous commits from history.
