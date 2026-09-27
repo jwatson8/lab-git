@@ -1,4 +1,6 @@
-# Git Lab: Practicing Collaboration
+# Git Lab: Learning Branches and Practicing Collaboration
+
+<!-- Git lab: practice branching, conflict resolution, and collaboration. -->
 
 ![mingpt](mingpt.jpg)
 
